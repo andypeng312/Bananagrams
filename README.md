@@ -45,5 +45,5 @@ Waiting for players to join
 ![](/Screenshots/Desktop/screenshot4.png)  
 The game in progress
 
-![](/screenshots/Desktop/screenshot5.png)  
+![](/Screenshots/Desktop/screenshot5.png)  
 The winning move
